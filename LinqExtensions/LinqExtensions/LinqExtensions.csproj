@@ -40,6 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Expressions\ExpressionExtensions.cs" />
+    <Compile Include="Expressions\ParameterRebinder.cs" />
     <Compile Include="GroupJoinResult.cs" />
     <Compile Include="JoinResult.cs" />
     <Compile Include="LinqExtensions.cs" />
