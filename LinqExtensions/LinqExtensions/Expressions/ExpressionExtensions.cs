@@ -1,4 +1,7 @@
-﻿using System;
+﻿/* For original source code see
+ * https://blogs.msdn.microsoft.com/meek/2008/05/02/linq-to-entities-combining-predicates/
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
